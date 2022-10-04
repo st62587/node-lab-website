@@ -1,0 +1,51 @@
+#divID1 {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    border: 1px solid black;
+}
+#divID2 {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background: rgb(255, 0, 0);
+    border: 1px solid black;
+}
+#divID3 {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background: rgb(255, 215, 0);
+    border: 1px solid black;
+}
+
+.height {
+    height: 10px;
+}
+.blocked {
+	text-align: justify;
+	text-align-last: none;
+    BACKGROUND: orange
+}
+.kreis {
+    border-radius: 50%;
+}
+.neonText {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+  }  
+  canvas {
+  
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
